@@ -14,7 +14,7 @@ btn.addEventListener('click', () => {
             <div class="box">
                 <img class="box_img" src="${i.photo}" alt="photo">
                 <p>${i.title}</p>
-                <span>${i.photo}</span>
+                <span>${i.price}</span>
             </div>
             `
             wrap.append(block)
