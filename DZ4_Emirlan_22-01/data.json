@@ -1,0 +1,52 @@
+[
+  {
+    "photo": "img/ASICS-Sky-Elite-FF.jpeg",
+    "title": "ASICS-Sky-Elite-FF",
+    "price": "3500"
+  },
+  {
+    "photo": "img/700-nw.jpeg",
+    "title": "700-nw",
+    "price": "2000"
+  },
+  {
+    "photo": "img/volleyball.jpeg",
+    "title": "volleyball",
+    "price": "9000"
+  },
+  {
+    "photo": "img/laptop.jpeg",
+    "title": "laptop",
+    "price": "100000"
+  },
+  {
+    "photo": "img/iPhone.jpeg",
+    "title": "iPhone",
+    "price": "100000"
+  },
+  {
+    "photo": "img/mikasa.jpeg",
+    "title": "mikasa",
+    "price": "9000"
+  },
+  {
+    "photo": "img/nike.webp",
+    "title": "nike",
+    "price": "12000"
+  },
+  {
+    "photo": "img/narukavniki.jpeg",
+    "title": "narukavniki",
+    "price": "200"
+  },
+  {
+    "photo": "img/cetka.jpeg",
+    "title": "cetka",
+    "price": "3500"
+  },
+  {
+    "photo": "img/original.jpeg",
+    "title": "original",
+    "price": "3200"
+  }
+]
