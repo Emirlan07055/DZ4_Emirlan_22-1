@@ -2,12 +2,12 @@ const btn = document.querySelector('button')
 const wrap = document.querySelector('.block')
 
 btn.addEventListener('click', () => {
-    const rgs = new XMLHttpRequest()
-    rgs.open('GET', "data.json")
-    rgs.setRequestHeader("Content-Type", "applicition.json")
-    rgs.send()
-    rgs.addEventListener('load', () => {
-        const data = JSON.parse(rgs.response)
+    const request = new XMLHttpRequest()
+    request.open('GET', "data.json")
+    request.setRequestHeader("Content-Type", "applicition.json")
+    request.send()
+    request.addEventListener('load', () => {
+        const data = JSON.parse(request.response)
         data.forEach(i => {
             const block = document.createElement('div')
             block.innerHTML = `
@@ -15,6 +15,7 @@ btn.addEventListener('click', () => {
                 <img class="box_img" src="${i.photo}" alt="photo">
                 <p>${i.title}</p>
                 <span>${i.price}</span>
+                <p>${i.phone}</p>
             </div>
             `
             wrap.append(block)
