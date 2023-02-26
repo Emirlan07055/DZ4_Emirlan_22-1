@@ -2,51 +2,61 @@
   {
     "photo": "img/ASICS-Sky-Elite-FF.jpeg",
     "title": "ASICS-Sky-Elite-FF",
-    "price": "3500"
+    "price": "price-3500",
+    "phone": "my phone +***********"
   },
   {
     "photo": "img/700-nw.jpeg",
-    "title": "700-nw",
-    "price": "2000"
+    "title": "forma volleyball",
+    "price": "price-2000",
+    "phone": "my phone +***********"
   },
   {
     "photo": "img/volleyball.jpeg",
-    "title": "volleyball",
-    "price": "9000"
+    "title": "nakolenniki",
+    "price": "price-9000",
+    "phone": "my phone +***********"
   },
   {
-    "photo": "img/laptop.jpeg",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9hg5WEEF8e_1i2vSKhJbwoBle2NcIsWUP3OvNC6YGW_t9gQ0itxSifv2AkyOR8-Sg5rw&usqp=CAU",
     "title": "laptop",
-    "price": "100000"
+    "price": "price-100000",
+    "phone": "my phone +***********"
   },
   {
     "photo": "img/iPhone.jpeg",
     "title": "iPhone",
-    "price": "100000"
+    "price": "price-100000",
+    "phone": "my phone +***********"
   },
   {
     "photo": "img/mikasa.jpeg",
     "title": "mikasa",
-    "price": "9000"
+    "price": "price-9000",
+    "phone": "my phone +***********"
   },
   {
     "photo": "img/nike.webp",
     "title": "nike",
-    "price": "12000"
+    "price": "price-12000",
+    "phone": "my phone +***********"
   },
   {
     "photo": "img/narukavniki.jpeg",
     "title": "narukavniki",
-    "price": "200"
+    "price": "price-200",
+    "phone": "my phone +***********"
   },
   {
     "photo": "img/cetka.jpeg",
     "title": "cetka",
-    "price": "3500"
+    "price": "price-3500",
+    "phone": "my phone +***********"
   },
   {
     "photo": "img/original.jpeg",
     "title": "original",
-    "price": "3200"
+    "price": "price-3200",
+    "phone": "my phone +***********"
   }
 ]
